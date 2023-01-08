@@ -1,5 +1,12 @@
 # SpaceColosseumBattle
 
+## ATTENTION
+Scène à utiliser : 
+> Assets/Scenes/Playground
+
+Si la console montre des erreurs :
+> Sauter une ligne ou Supprimer une lignes vide dans le Assets/Scripts/Game.cs
+
 ## But du jeu
 Le but est simple, survivre le plus longtemps à des vagues d'ennemis dans un colisée spatial.
 
